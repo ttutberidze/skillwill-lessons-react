@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+}
+.wrapper {
+  padding: 20px;
+  display: flex;
+}
+
+.list-wrapper {
+  border: 1px solid #cccccc;
+  width: 50%;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 2px solid #cccccc;
+}

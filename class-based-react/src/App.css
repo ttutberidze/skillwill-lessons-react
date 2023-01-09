@@ -1,0 +1,10 @@
+.users {
+  text-align: center;
+  padding: 10px 40px;
+}
+
+.user-item {
+  border: 1px solid lightblue;
+  padding: 20px;
+  margin: 10px 0;
+}
